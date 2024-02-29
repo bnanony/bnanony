@@ -5,12 +5,12 @@ Passionate individual with a background in machine learning and software enginee
 
 ## Work Experience 💼
 - **Machine Learning Research**: Implemented Self-Supervised-Pretraining for a Feature-Encoder at Mercedes-Benz AG.
-- **Software Engineering**: Interned at Microsoft + Nuance Communications, specializing in Natural Language Processing pipelines.
+- **Software Engineering**: Interned at Microsoft + Nuance Communications.
 - **Entrepreneurship**: Founded Bensbier, a craft beer company involving sales, marketing, and web development.
 
 ## Academic Education 📚
 - **M.Sc. in Robotics**: Focus on Machine Learning with projects like an autonomous quadcopter for the DARPA Subterranean Challenge.
-- **B.Sc. in Biomedical Engineering**: Thesis on “Structured Adversarial Rewiring for Robust and Sparse Neural Networks.”
+- **B.Sc. in Biomedical Engineering**: Thesis on [“Structured Adversarial Rewiring for Robust and Sparse Neural Networks”](https://github.com/bnanony/StructuredRewRobustSparseNNs.git)
 
 ## Programming Skills 💻
 Proficient in Python, PyTorch, TensorFlow, Kotlin/Java, C++, Kubernetes, Docker, Azure, HTML, CSS.
