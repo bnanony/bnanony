@@ -17,7 +17,7 @@ Proficient in Python, PyTorch, TensorFlow, Kotlin/Java, C++, Kubernetes, Docker,
 
 ## Projects 🛠️
 - **Self-Supervised Pretraining**: Developed Lidar Point Cloud Feature Encoder.
-- **Structured Adversarial Training**: Algorithm development for robust neural networks.
+- **Structured Adversarial Training**: Algorithm development for robust sparse neural networks.
 - **Azure Kubernetes Cluster**: Connected Kotlin app securely via Oauth2-proxy.
 
 ## Languages & Interests 🌍
