@@ -23,4 +23,4 @@ Proficient in Python, PyTorch, TensorFlow, Kotlin/Java, C++, Kubernetes, Docker,
 ## Languages & Interests 🌍
 Fluent in German and English. Interests include Machine Learning, Chess, Kiteboarding (certified IKO-Instructor), and various outdoor activities.
 
-Let's collaborate and innovate together! Reach out to me at ben.n.seidel@gmail.com or connect on [LinkedIn](linkedin.com/in/benedikt-seidel). 📧🤝
+Let's collaborate and innovate together! Reach out to me on [LinkedIn](linkedin.com/in/benedikt-seidel). 📧🤝
