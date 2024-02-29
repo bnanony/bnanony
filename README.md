@@ -1,7 +1,7 @@
 # Benedikt Seidel - GitHub Profile 🚀
 
 ## About Me ℹ️
-Passionate individual with a strong background in machine learning and software engineering. Currently pursuing an M.Sc. in Robotics, Cognition, Intelligence at the Technical University of Munich, with a B.Sc. in Biomedical Engineering from the Technical University of Graz.
+Passionate individual with a background in machine learning and software engineering. Currently pursuing an M.Sc. in Robotics, Cognition, Intelligence at the Technical University of Munich, with a B.Sc. in Biomedical Engineering from the Technical University of Graz.
 
 ## Work Experience 💼
 - **Machine Learning Research**: Implemented Self-Supervised-Pretraining for a Feature-Encoder at Mercedes-Benz AG.
