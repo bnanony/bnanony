@@ -9,7 +9,7 @@ Passionate individual with a background in machine learning and software enginee
 - **Entrepreneurship**: Founded Bensbier, a craft beer company involving sales, marketing, and web development.
 
 ## Academic Education 📚
-- **M.Sc. in Robotics**: Focus on Machine Learning with projects like an autonomous quadcopter for the DARPA Subterranean Challenge.
+- **M.Sc. in Robotics**: Focus on Machine Learning with projects like an autonomous quadcopter based on the DARPA Subterranean Challenge.
 - **B.Sc. in Biomedical Engineering**: Thesis on [“Structured Adversarial Rewiring for Robust and Sparse Neural Networks”](https://github.com/bnanony/StructuredRewRobustSparseNNs.git)
 
 ## Programming Skills 💻
@@ -21,6 +21,6 @@ Proficient in Python, PyTorch, TensorFlow, Kotlin/Java, C++, Kubernetes, Docker,
 - **Azure Kubernetes Cluster**: Connected Kotlin app securely via Oauth2-proxy.
 
 ## Languages & Interests 🌍
-Fluent in German and English. Interests include Machine Learning, Chess, Kiteboarding (certified IKO-Instructor), and various outdoor activities.
+Fluent in German and English. Interests include Chess, Kiteboarding (certified IKO-Instructor), and various outdoor activities.
 
 Let's collaborate and innovate together! Reach out to me on [LinkedIn](linkedin.com/in/benedikt-seidel). 📧🤝
